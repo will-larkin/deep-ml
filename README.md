@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 9 problems · 1 labs · 0 math
+**11** solved · 10 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Vocabulary Size from Token List](https://www.deep-ml.com/problems/953) | easy | 2026-10-03 | [solution](problems/0953-calculate-vocabulary-size-from-token-list) |
 | [Construct Next-Token Prediction Targets](https://www.deep-ml.com/problems/954) | easy | 2026-10-28 | [solution](problems/0954-construct-next-token-prediction-targets) |
 | [Embedding Layer as One-Hot Matrix Multiplication](https://www.deep-ml.com/problems/947) | easy | 2026-10-28 | [solution](problems/0947-embedding-layer-as-one-hot-matrix-multiplication) |
+| [Generate Input-Target Batches for Language Model Training](https://www.deep-ml.com/problems/1080) | easy | 2026-10-28 | [solution](problems/1080-generate-input-target-batches-for-language-model-training) |
 | [Replace Token Pair in BPE Sequences](https://www.deep-ml.com/problems/949) | easy | 2026-10-03 | [solution](problems/0949-replace-token-pair-in-bpe-sequences) |
 | [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-10-23 | [solution](problems/0945-token-embedding-lookup-table) |
 | [BPE Encode Text Using Merge Table](https://www.deep-ml.com/problems/950) | medium | 2026-10-07 | [solution](problems/0950-bpe-encode-text-using-merge-table) |
