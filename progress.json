@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T10:24:08.835Z",
+  "generated_at": "2026-10-28T12:21:43.953Z",
   "items": {
     "problem:953": {
       "kind": "problem",
@@ -156,6 +156,19 @@
       "last_pushed_at": "2026-10-28T10:24:08.218Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:1059": {
+      "kind": "problem",
+      "id": "1059",
+      "title": "Pad and Truncate Tokenized Sequences",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/1059",
+      "path": "problems/1059-pad-and-truncate-tokenized-sequences",
+      "first_solved_at": "2026-10-28T12:21:42.163Z",
+      "last_pushed_at": "2026-10-28T12:21:42.163Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
