@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 12 problems · 1 labs · 0 math
+**14** solved · 13 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Add Positional Embeddings to Token Embeddings](https://www.deep-ml.com/problems/946) | easy | 2026-10-27 | [solution](problems/0946-add-positional-embeddings-to-token-embeddings) |
 | [BPE Decode Token IDs to Text](https://www.deep-ml.com/problems/951) | easy | 2026-10-07 | [solution](problems/0951-bpe-decode-token-ids-to-text) |
+| [Build Bigram Count Matrix from Words](https://www.deep-ml.com/problems/983) | easy | 2026-10-28 | [solution](problems/0983-build-bigram-count-matrix-from-words) |
 | [Calculate Vocabulary Size from Token List](https://www.deep-ml.com/problems/953) | easy | 2026-10-03 | [solution](problems/0953-calculate-vocabulary-size-from-token-list) |
 | [Construct Next-Token Prediction Targets](https://www.deep-ml.com/problems/954) | easy | 2026-10-28 | [solution](problems/0954-construct-next-token-prediction-targets) |
 | [Embedding Layer as One-Hot Matrix Multiplication](https://www.deep-ml.com/problems/947) | easy | 2026-10-28 | [solution](problems/0947-embedding-layer-as-one-hot-matrix-multiplication) |
