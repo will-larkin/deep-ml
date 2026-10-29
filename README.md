@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 16 problems · 1 labs · 4 math
+**22** solved · 17 problems · 1 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build Bigram Count Matrix from Words](https://www.deep-ml.com/problems/983) | easy | 2026-10-28 | [solution](problems/0983-build-bigram-count-matrix-from-words) |
 | [Calculate Vocabulary Size from Token List](https://www.deep-ml.com/problems/953) | easy | 2026-10-03 | [solution](problems/0953-calculate-vocabulary-size-from-token-list) |
 | [Construct Next-Token Prediction Targets](https://www.deep-ml.com/problems/954) | easy | 2026-10-28 | [solution](problems/0954-construct-next-token-prediction-targets) |
+| [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-29 | [solution](problems/0083-dot-product-calculator) |
 | [Embedding Layer as One-Hot Matrix Multiplication](https://www.deep-ml.com/problems/947) | easy | 2026-10-28 | [solution](problems/0947-embedding-layer-as-one-hot-matrix-multiplication) |
 | [Generate Input-Target Batches for Language Model Training](https://www.deep-ml.com/problems/1080) | easy | 2026-10-28 | [solution](problems/1080-generate-input-target-batches-for-language-model-training) |
 | [Laplace Smoothing for Bigram Probabilities](https://www.deep-ml.com/problems/987) | easy | 2026-10-28 | [solution](problems/0987-laplace-smoothing-for-bigram-probabilities) |
