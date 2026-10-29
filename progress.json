@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T16:04:17.093Z",
+  "generated_at": "2026-10-29T16:27:45.068Z",
   "items": {
     "problem:953": {
       "kind": "problem",
@@ -304,6 +304,19 @@
       "last_pushed_at": "2026-10-29T16:04:16.363Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:991": {
+      "kind": "problem",
+      "id": "991",
+      "title": "Sample from MLP Character Language Model",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/991",
+      "path": "problems/0991-sample-from-mlp-character-language-model",
+      "first_solved_at": "2026-10-29T16:27:43.844Z",
+      "last_pushed_at": "2026-10-29T16:27:43.844Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
