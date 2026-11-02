@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T15:04:36.225Z",
+  "generated_at": "2026-11-02T15:59:44.422Z",
   "items": {
     "problem:953": {
       "kind": "problem",
@@ -339,6 +339,19 @@
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-11-02T15:04:32.237Z",
       "last_pushed_at": "2026-11-02T15:04:32.237Z"
+    },
+    "problem:955": {
+      "kind": "problem",
+      "id": "955",
+      "title": "Simple Self-Attention Without Trainable Weights",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/955",
+      "path": "problems/0955-simple-self-attention-without-trainable-weights",
+      "first_solved_at": "2026-11-02T15:59:43.158Z",
+      "last_pushed_at": "2026-11-02T15:59:43.158Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }

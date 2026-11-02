@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 20 problems · 1 labs · 6 math
+**28** solved · 21 problems · 1 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Laplace Smoothing for Bigram Probabilities](https://www.deep-ml.com/problems/987) | easy | 2026-10-28 | [solution](problems/0987-laplace-smoothing-for-bigram-probabilities) |
 | [Pad and Truncate Tokenized Sequences](https://www.deep-ml.com/problems/1059) | easy | 2026-10-28 | [solution](problems/1059-pad-and-truncate-tokenized-sequences) |
 | [Replace Token Pair in BPE Sequences](https://www.deep-ml.com/problems/949) | easy | 2026-10-03 | [solution](problems/0949-replace-token-pair-in-bpe-sequences) |
+| [Simple Self-Attention Without Trainable Weights](https://www.deep-ml.com/problems/955) | easy | 2026-11-02 | [solution](problems/0955-simple-self-attention-without-trainable-weights) |
 | [Sliding Window Text Dataset Generator](https://www.deep-ml.com/problems/944) | easy | 2026-10-28 | [solution](problems/0944-sliding-window-text-dataset-generator) |
 | [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-10-23 | [solution](problems/0945-token-embedding-lookup-table) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-10-29 | [solution](problems/0121-vector-element-wise-sum) |
