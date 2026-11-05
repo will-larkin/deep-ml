@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T10:04:31.479Z",
+  "generated_at": "2026-11-05T14:22:10.379Z",
   "items": {
     "problem:953": {
       "kind": "problem",
@@ -547,6 +547,19 @@
       "last_pushed_at": "2026-11-05T10:04:30.821Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:491": {
+      "kind": "problem",
+      "id": "491",
+      "title": "Build a Transformer Encoder Layer",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/491",
+      "path": "problems/0491-build-a-transformer-encoder-layer",
+      "first_solved_at": "2026-11-05T14:22:10.052Z",
+      "last_pushed_at": "2026-11-05T14:22:10.052Z",
+      "language": "python",
+      "lines": 81
     }
   }
 }
